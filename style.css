@@ -1,0 +1,10 @@
+@media (max-width:1000px){
+    button{display: none}
+}
+@media (min-width:1000px){
+    #selecteur{display: none}
+}
+div{
+    width: 1000px;
+    background-color: red;
+}
