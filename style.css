@@ -4,7 +4,12 @@
 @media (min-width:1000px){
     #selecteur{display: none}
 }
+
+button{
+    background-color: white;
+}
 div{
-    width: 1000px;
-    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
