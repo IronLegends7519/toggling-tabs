@@ -3,8 +3,10 @@
 }
 @media (min-width:1000px){
     #selecteur{display: none}
+ }
+body{
+    background-color: aqua;
 }
-
 button{
     background-color: white;
 }
